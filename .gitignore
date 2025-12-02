@@ -1,0 +1,9 @@
+.idea/
+.venv/
+.pytest_cache
+*.db
+*__pycache__/
+*.py[cod]
+*.env
+input.txt
+input_.txt
